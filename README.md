@@ -3,7 +3,6 @@
 Hybrid GRU-Transformer deep learning model for classifying encrypted **DNS-over-HTTPS (DoH)** network traffic, with a live Streamlit dashboard for real-time prediction and packet capture.
 
 Final Year Project — Bachelor of Computer Science (Hons.), Universiti Teknologi MARA (UiTM)
-Supervisor: Ts. Dr Mohammad Hafiz bin Mohd Yusof
 
 ---
 
