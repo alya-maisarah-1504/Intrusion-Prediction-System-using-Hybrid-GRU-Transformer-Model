@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+tensorflow==2.15.0
+scapy
